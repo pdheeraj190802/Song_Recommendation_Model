@@ -1,4 +1,4 @@
-# Song_Recommendation_ML_Model
+# Song_Recommendation_Model
 
 ### Introduction
 I selected the problem from the kaggle music hakathon . Link from where I downloaded the
